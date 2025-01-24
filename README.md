@@ -23,15 +23,15 @@
 
 4. Neues Projekt auf GitHub erstellt  
     <img src="./assets/01_03_create-repo.png" alt="" width="200"/>  
-
+    
     <img src="./assets/01_04_form.png" alt="" width="200"/>  
-
+    
     <img src="./assets/01_05_repo.png" alt="" width="200"/>  
 
 ## Erstellung SSH-Key
 
 1. Oeffne dein Terminal  
-<img src="./assets/02_01_terminal.png" alt="" width="200"/>  
+    <img src="./assets/02_01_terminal.png" alt="" width="200"/>  
 
 2. Schaue die an, ob du nicht vielleicht schon vorhandene SSH-Keys verwenden kannst.
 
@@ -70,9 +70,9 @@
 5. Hinterlege den SSH-Key in den SSH Einstellungen des GitHub Users  
     
     <img src="./assets/02_04_add-key-step-1.png" alt="" width="200"/>  
-
+    
     <img src="./assets/02_05_add-key-step-2.png" alt="" width="200"/>  
-
+    
     <img src="./assets/02_06_add-key-step-3.png" alt="" width="200"/>  
 
 ### Weitere Anpassungen bei Option 2 (`dctvelptec`)
